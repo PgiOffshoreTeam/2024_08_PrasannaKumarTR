@@ -1,0 +1,8 @@
+{
+  "name": "UIPoC",
+  "sourceDirPath": "/",
+  "resourceDirPath": "/resources/",
+  "sourceDirRelative": true,
+  "resourceDirRelative": true,
+  "botId": "UIPoC"
+}
